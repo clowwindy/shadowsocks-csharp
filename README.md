@@ -1,2 +1,1 @@
-shadowsocks-csharp
-==================
+Moved to https://github.com/shadowsocks/shadowsocks-csharp
